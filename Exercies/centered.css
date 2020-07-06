@@ -1,0 +1,47 @@
+
+div {
+    border-radius: 50%;
+    
+  }
+  
+  .c1 {
+    position: relative;
+    width: 350px;
+    height: 350px;
+    background-color: red;
+    top: 25%;
+    left: 40%;
+  }
+  
+  .c2 {
+    position: absolute;
+    background-color: rgb(139, 161, 139);
+    width: 300px;
+    height: 300px;
+    transform: translate(25px, 25px);
+  }
+  
+  .c3 {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+    transform: translate(25px, 25px);
+    
+  }
+  .c4{
+
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: deeppink;
+    transform: translate(25px, 25px);
+  }
+
+  .c5{
+    width: 150px;
+    position: absolute;
+    height: 150px;
+    background-color: gold;
+    transform: translate(25px, 25px);
+  }

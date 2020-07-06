@@ -1,0 +1,28 @@
+.h {
+  height: 50px;
+  background:yellow;
+  border-bottom-left-radius: 100% 200%;
+  border-bottom-right-radius: 100% 200%;
+}
+div{
+  
+  color: blue;
+  margin-top: -100px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+ 
+}
+
+.f {
+  background:yellow;
+  height: 50px;
+  width:100%;
+  position:absolute;
+  bottom: 0;
+  border-top-left-radius: 100% 200%;
+  border-top-right-radius: 100% 200%;
+
+
+}

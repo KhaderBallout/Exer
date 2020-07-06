@@ -1,0 +1,56 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 150px 150px 150px ;
+    grid-template-rows: 200px 200px 200px;
+    padding: 10px;
+  }
+  .grid-item {
+    background-color: #2196F3;
+    border: 1px solid white;
+    
+   
+  }  
+  .grid-container2 {
+    display: grid;
+    grid-template-columns: 150px 150px 150px ;
+    grid-template-rows: 200px 200px 200px;
+    padding: 10px;
+    margin-left: 300px
+    
+  }
+  #holder{
+    width:200px;
+    
+  }
+  .box{
+    width:100px;
+    height:150px;
+    float:left;
+    
+  }
+  .one{
+    background-color:#0F0;
+    height:200px;
+  }
+  
+  .two{
+    background-color:#0FF;
+  }
+  
+  .three{
+    background-color:#00F;
+    float:right;
+  }
+  
+  .four{
+    background-color:#FF0;
+    float:right;
+  }
+  .left{float:left;}
+  .right{float:right;}
+  #margin{
+    transform: translate(200px ,-350px);
+  }
+  #margin2{
+    transform: translate(400px ,-700px);
+  }

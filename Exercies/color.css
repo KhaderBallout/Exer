@@ -1,0 +1,48 @@
+.color1 {
+    border-radius: 50%;
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    opacity: 0.5;
+}
+
+.color2{
+    border-radius: 50%;
+    background-color: black;
+    width: 150px;
+    height: 150px;
+    opacity: 0.9;
+    transform: translate(100px,0px);
+}
+.square1{
+    width: 200px;
+    height: 100px;
+    margin-left: 300px;
+    border: 1px black dotted;
+}
+
+.square2{
+    width: 200px;
+    height: 100px;
+    margin-left: 300px;
+    border: 1px black dashed;
+    
+}
+.square3{
+    width: 200px;
+    height: 100px;
+    margin-top: 100px;
+    background-image: linear-gradient(to right ,#2828CD , #82F9B7);
+}
+.square4{
+    width: 200px;
+    height: 100px;
+    margin-left: 300px;
+    background-image: linear-gradient(to top ,#2828CD , #82F9B7);
+}
+.square5{
+    width: 200px;
+    height: 100px;
+    margin-left: 300px;
+    background-image: linear-gradient(45deg ,#2828CD , #82F9B7);
+}
